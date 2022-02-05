@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages, and you will find happy here.
 
 You can use the [editor on GitHub](https://github.com/15597568/WebTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
